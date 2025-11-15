@@ -1,0 +1,3 @@
+# Virtual environment and it's binaries
+venv
+venv/*
